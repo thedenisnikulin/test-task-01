@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "b66WmywYf/7OcBbY5nbJMw/0dotMJx1HubFCa9BU09RRLrvLRFRWSrbtms0qLPJ7jP2+DQspEhFlpfv+rf1w9Q==",
+  "dgSpecHash": "aRfBgeXtKVfRA+hlHgg3+MwEb1cWVHTv7KjmzdVOkHq6JC0NJl7M+OBPc3yNVJgJZb0MQYj4AVwHKTKpqNXyuw==",
   "success": true,
   "projectFilePath": "/home/denis/code/work/ShoutingCheese/test-task-01/src/LibraryManagementSystem/Application/Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/denis/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/home/denis/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/home/denis/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/home/denis/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
